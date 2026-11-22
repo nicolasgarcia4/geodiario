@@ -87,6 +87,10 @@ test/registro_test.dart           # Testes do modelo e do banco (inclusão, cons
 |---|---|---|---|
 | ![Galeria](docs/screenshots/1-galeria.png) | ![Novo registro](docs/screenshots/2-novo-registro.png) | ![Detalhes](docs/screenshots/3-detalhes.png) | ![Exclusão](docs/screenshots/4-exclusao.png) |
 
+As capturas e o vídeo foram feitos no emulador Android, usando a câmera de um iPhone como webcam.
+
+**Vídeo de demonstração:** [docs/demo.mp4](docs/demo.mp4). Mostra um novo registro do começo ao fim (foto, data, hora e GPS automáticos, título e descrição), a visualização dos detalhes e a exclusão de um registro.
+
 ## Como executar
 
 ```bash
